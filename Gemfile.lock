@@ -100,7 +100,7 @@ GEM
     ed25519 (1.2.4)
     erubi (1.10.0)
     ffi (1.15.4)
-    globalid (0.6.0)
+    globalid (1.0.0)
       activesupport (>= 5.0)
     i18n (1.8.11)
       concurrent-ruby (~> 1.0)
@@ -256,7 +256,7 @@ DEPENDENCIES
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)
   tzinfo-data
-  unicorn (>= 5.4.1)
+  unicorn
   web-console (>= 3.3.0)
   webdrivers
   webpacker (~> 4.0)
